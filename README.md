@@ -12,9 +12,9 @@ effectuez vos translations (Game.translation(Direction. ) .
 Dessinez alors votre pièce sur la grille avec la fonction (drawPieceOnBoard)
 
 Une fois votre pièce à l'endroit que vous souhaitez. 
-Utilisez la fonction fixpiece() pour la fixer. Elle créera alors une nouvelle pièce aléatoire centré à la ligne 0.
+Utilisez la fonction fixpiece() pour la fixer. Elle créera alors une nouvelle pièce aléatoire centrée à la ligne 0.
 
-*Effectuez vos translations. Puis utilisez là fonction drawPieceOnBoard et fixpiece. 
+*Effectuez vos translations. Puis utilisez la fonction drawPieceOnBoard et fixpiece. 
 
 *Répétez alors les étapes autant que vous le souhaitez. 
 
